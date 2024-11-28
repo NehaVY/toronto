@@ -1,0 +1,17 @@
+2024/11/28 10:47:56 Successfully connected to MySQL database!
+2024/11/28 10:47:56 Server is running on http://localhost:8080
+2024/11/28 10:48:29 Successfully connected to MySQL database!
+2024/11/28 10:48:29 Server is running on http://localhost:8080
+2024/11/28 10:49:07 Received request for current time from 127.0.0.1:53228
+2024/11/28 10:49:07 Current Toronto time: 2024-11-28 10:49:07.8007508 -0500 EST
+2024/11/28 10:49:07 Inserted current time: 2024-11-28 10:49:07.8007508 -0500 EST into the database
+2024/11/28 10:52:54 MySQL database Connection done!
+2024/11/28 10:52:54 Server is running on http://localhost:8080
+2024/11/28 10:53:10 Received request for current time from 127.0.0.1:53271
+2024/11/28 10:53:10 Current Toronto time: 2024-11-28 10:53:10.6284257 -0500 EST
+2024/11/28 10:53:10 Current time is inserted: 2024-11-28 10:53:10.6284257 -0500 EST into the database
+2024/11/28 11:05:50 MySQL database Connection done!
+2024/11/28 11:05:50 Server is running on http://localhost:8080
+2024/11/28 11:07:18 Received request for current time from 127.0.0.1:54248
+2024/11/28 11:07:18 Current Toronto time: 2024-11-28 11:07:18.648982 -0500 EST
+2024/11/28 11:07:18 Current time is inserted: 2024-11-28 11:07:18.648982 -0500 EST into the database
